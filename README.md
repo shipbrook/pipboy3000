@@ -1,7 +1,7 @@
 # pipboy3000
 Code and data for an Arduino-based PIP-Boy 3000.
 
-This was designed for an Arduino Pro Mini with an Adafruit 3.5" TFT 320x480 touchscreen (HXD8357D, product ID 2050). It doesn't use the touchscreen features; instead, it uses an encoder wheel and three buttons for input. The data files should be placed on a MicroSD card, which should be inserted into the reader on the display.
+This was designed for an Arduino Pro Mini or Nano with an Adafruit 3.5" TFT 320x480 touchscreen (HXD8357D, product ID 2050). It doesn't use the touchscreen features; instead, it uses an encoder wheel and three buttons for input. The data files should be placed on a MicroSD card, which should be inserted into the reader on the display.
 
 The code expects the Arduino pins to be connected to:
 
