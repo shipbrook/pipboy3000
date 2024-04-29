@@ -20,7 +20,7 @@ A3 - LED 3
 A4 - LED 1  
 A5 - LED 2  
 5V - TFT VIN  
-GND - TFT GND, buttons and rotary encoder (center)  
+GND - TFT GND, buttons, LEDs (with resistor), and rotary encoder (center)  
 
 The screen painting is not blindingly fast, but it's faster than loading static images on from the SD card.
 
